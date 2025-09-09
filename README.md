@@ -3,12 +3,11 @@
 👋 Welcome to my GitHub profile! Here you'll find a growing collection of my school and personal projects that I've been working on from 2021 until now!
 
 Some of my favorite projects I've worked on :
-- 💻 **[hOS (2021)](https://github.com/itshichabk/hOS_C)** : an attempt at making a terminal-based operating system in C (and later **[C++](https://github.com/itshichabk/hOS_Cpp)!**)
-- 💼 **[stage_webapp (2022)](https://github.com/itshichabk/stage_webapp)** : my first ever full-stack app made during an internship where I learned Web development for the first time
-- 📺 **[Bureau en maigre (2023)](https://github.com/Archidoc142/Projet-Web)** : a PHP+MySQL website for a fictional television store made as part of a team school project
-- 🏎 **[Mario Kart DS Wiimmfi Dashboard (2024)](https://github.com/itshichabk/mkds-wiimmfi-dashboard)** : a React app that automatically fetches online players from the Wiimmfi website using an Express.js API
 - 🧠 **[Wordle C++ (2025)](https://github.com/itshichabk/wordle_cpp)** : a cross-platform Wordle clone in C++, powered by libcurl and (PD)curses
-
+- 🏎 **[Mario Kart DS Wiimmfi Dashboard (2024)](https://github.com/itshichabk/mkds-wiimmfi-dashboard)** : a React app that automatically fetches online players from the Wiimmfi website using an Express.js API
+- 📺 **[Bureau en maigre (2023)](https://github.com/Archidoc142/Projet-Web)** : a PHP+MySQL website for a fictional television store made as part of a team school project
+- 💼 **[stage_webapp (2022)](https://github.com/itshichabk/stage_webapp)** : my first ever full-stack app made during an internship where I learned Web development for the first time
+- 💻 **[hOS (2021)](https://github.com/itshichabk/hOS_C)** : an attempt at making a terminal-based operating system in C (and later **[C++](https://github.com/itshichabk/hOS_Cpp)!**)
 
 More fun projects coming soon!
 
