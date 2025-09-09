@@ -7,6 +7,8 @@ Some of my favorite projects I've worked on :
 - 💼 **[stage_webapp (2022)](https://github.com/itshichabk/stage_webapp)** : my first ever full-stack app made during an internship where I learned Web development for the first time
 - 📺 **[Bureau en maigre (2023)](https://github.com/Archidoc142/Projet-Web)** : a PHP+MySQL website for a fictional television store made as part of a team school project
 - 🏎 **[Mario Kart DS Wiimmfi Dashboard (2024)](https://github.com/itshichabk/mkds-wiimmfi-dashboard)** : a React app that automatically fetches online players from the Wiimmfi website using an Express.js API
+- 🧠 **[Wordle C++ (2025)](https://github.com/itshichabk/wordle_cpp)** : a cross-platform Wordle clone in C++, powered by libcurl and (PD)curses
+
 
 More fun projects coming soon!
 
